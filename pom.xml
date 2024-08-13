@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.orionlibs</groupId>
     <artifactId>orion-stream</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>Orion Stream</name>
     <description>Java stream API-related library</description>
     <url>https://github.com/orionlibs/orion-stream</url>
